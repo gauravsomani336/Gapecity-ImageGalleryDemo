@@ -9,7 +9,7 @@
 
 ### Tech
 -asp.net / c#
--Visual basics 2019
+-Visual Studio 2019
 
 ## Work
 
