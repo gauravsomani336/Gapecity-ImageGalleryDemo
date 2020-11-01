@@ -13,6 +13,6 @@
 
 ## Work
 
-
+- Image Gallery Demo-> Image Gallery Demo.sln -> ImageGallery.cs(open as Designer)
 - Export images as pdf By selecting multiple images by Ctrl+click on images you want to save then export
   to pdf button will be visible then click on it to save images as pdf form.
